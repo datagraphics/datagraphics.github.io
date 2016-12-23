@@ -8,4 +8,4 @@ categories: jekyll update
 
 <h1>Схематическое изображение роли данных в&nbsp;мироустройстве</h1>
 
-![01]({{ site.url }}/assets/01.gif)
+![01]({{ site.url }}/assets/01.svg)
