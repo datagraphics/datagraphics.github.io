@@ -1,4 +1,4 @@
 ---
 title:  "Статистика активности и популярности аккаунта NYT Graphics"
-permalink: NYTtweets.html
+permalink: NYT_tweets.html
 ---
