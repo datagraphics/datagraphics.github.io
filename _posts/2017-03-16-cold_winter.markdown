@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Яндекс. Холодная зима"
+title:  "ЯНДЕКС: Холодная зима"
 date:   2017-03-16 13:00:00 +0300
 categories: jekyll update
 ---
